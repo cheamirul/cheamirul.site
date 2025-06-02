@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on cheamirul.site</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://cheamirul.site/tags/</link>
     <description>Recent content in Tags on cheamirul.site</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Jun 2024 11:00:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cheamirul.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>//localhost:1313/tags/hugo/</link>
+      <link>https://cheamirul.site/tags/hugo/</link>
       <pubDate>Sat, 01 Jun 2024 11:00:00 +0800</pubDate>
-      <guid>//localhost:1313/tags/hugo/</guid>
+      <guid>https://cheamirul.site/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
-      <link>//localhost:1313/tags/learning/</link>
+      <link>https://cheamirul.site/tags/learning/</link>
       <pubDate>Sat, 01 Jun 2024 11:00:00 +0800</pubDate>
-      <guid>//localhost:1313/tags/learning/</guid>
+      <guid>https://cheamirul.site/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Yaml</title>
-      <link>//localhost:1313/tags/yaml/</link>
+      <link>https://cheamirul.site/tags/yaml/</link>
       <pubDate>Sat, 01 Jun 2024 11:00:00 +0800</pubDate>
-      <guid>//localhost:1313/tags/yaml/</guid>
+      <guid>https://cheamirul.site/tags/yaml/</guid>
       <description></description>
     </item>
   </channel>

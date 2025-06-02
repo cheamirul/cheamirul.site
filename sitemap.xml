@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://cheamirul.site/</loc>
     <lastmod>2025-06-01T11:44:53+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://cheamirul.site/posts/</loc>
     <lastmod>2025-06-01T11:44:53+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/emailbegin/</loc>
+    <loc>https://cheamirul.site/posts/emailbegin/</loc>
     <lastmod>2025-06-01T11:44:53+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://cheamirul.site/categories/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>https://cheamirul.site/tags/hugo/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/learning/</loc>
+    <loc>https://cheamirul.site/tags/learning/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first-post/</loc>
+    <loc>https://cheamirul.site/posts/first-post/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://cheamirul.site/tags/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/tech/</loc>
+    <loc>https://cheamirul.site/categories/tech/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/yaml/</loc>
+    <loc>https://cheamirul.site/tags/yaml/</loc>
     <lastmod>2024-06-01T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://cheamirul.site/about/</loc>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>https://cheamirul.site/search/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>https://cheamirul.site/series/</loc>
   </url>
 </urlset>
