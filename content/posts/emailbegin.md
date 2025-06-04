@@ -1,6 +1,7 @@
 ---
 date: '2025-06-01T11:44:53+08:00'
 draft: false
+tags: ["learning", "foundation", "email"]
 title: 'Under the Hood: How Your Emails Get Delivered'
 ---
 
