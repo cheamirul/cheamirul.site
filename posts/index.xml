@@ -17,12 +17,5 @@
 &lt;p&gt;Email is a technology we often take for granted. These days, we can easily create an email address using providers like Gmail or ProtonMail, and start sending and receiving messages instantly.&lt;/p&gt;
 &lt;p&gt;However, behind the scenes, there’s much more going on. The journey of an email involves various servers, protocols, and checks. In fact, email delivery works quite differently from regular web traffic, with each component playing a specific role in making sure your message gets delivered reliably.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>My First Post with YAML Config!</title>
-      <link>https://cheamirul.site/posts/first-post/</link>
-      <pubDate>Sat, 01 Jun 2024 11:00:00 +0800</pubDate>
-      <guid>https://cheamirul.site/posts/first-post/</guid>
-      <description>A short summary of this awesome first post.</description>
-    </item>
   </channel>
 </rss>
