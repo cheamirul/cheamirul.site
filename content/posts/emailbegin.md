@@ -11,6 +11,11 @@ Email is a technology we often take for granted. These days, we can easily creat
 
 However, behind the scenes, there’s much more going on. The journey of an email involves various servers, protocols, and checks. In fact, email delivery works quite differently from regular web traffic, with each component playing a specific role in making sure your message gets delivered reliably.
 
+<p style="text-align: center;">
+  <img src="/images/Mailflow.png" alt="Basic mail flow" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" />
+  <em>Diagram 1: Basic Mail flow</em>
+</p>
+
 ---
 
 ## Email Key Players
@@ -33,6 +38,11 @@ Several components are involved in sending and receiving emails:
 - **DNS (Domain Name System – The Address Book)**  
   **Role**: Translates domain names into IP addresses.  
   **Job**: Helps the sending SMTP server find the recipient’s mail server by querying DNS MX (Mail Exchange) records.
+
+  <p style="text-align: center;">
+  <img src="/images/DNS.png" alt="MXquery" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" />
+  <em>Diagram 2: DNS Query</em>
+</p>
 
 ---
 
