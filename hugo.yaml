@@ -5,7 +5,7 @@ title: cheamirul.site
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
