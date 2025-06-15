@@ -14,8 +14,8 @@
       <pubDate>Sun, 01 Jun 2025 11:44:53 +0800</pubDate>
       <guid>https://cheamirul.site/posts/emailbegin/</guid>
       <description>&lt;h2 id=&#34;introduction-the-magic-of-instant-communication&#34;&gt;Introduction: The Magic of Instant Communication&lt;/h2&gt;
-&lt;p&gt;Email is a technology we often take for granted. These days, we can easily create an email address using providers like Gmail or ProtonMail, and start sending and receiving messages instantly.&lt;/p&gt;
-&lt;p&gt;However, behind the scenes, there’s much more going on. The journey of an email involves various servers, protocols, and checks. In fact, email delivery works quite differently from regular web traffic, with each component playing a specific role in making sure your message gets delivered reliably.&lt;/p&gt;</description>
+&lt;p&gt;These days, sending an email feels almost effortless. We sign up for an account with Gmail, ProtonMail or another provider type out a message, hit &amp;ldquo;Send&amp;rdquo; and within seconds it lands in someone else&amp;rsquo;s inbox.&lt;/p&gt;
+&lt;p&gt;But what actually happens after you click &amp;ldquo;Send&amp;rdquo; is much more complex. There’s an entire system working behind the scenes to move your message across servers, networks, and protocols before it reaches its destination. Email doesn’t travel the same way as regular web traffic and understanding how it works can be pretty fascinating.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

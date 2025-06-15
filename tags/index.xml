@@ -6,13 +6,27 @@
     <description>Recent content in Tags on cheamirul.site</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jun 2025 11:44:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 04:57:17 +0800</lastBuildDate>
     <atom:link href="https://cheamirul.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cisco-SESA</title>
+      <link>https://cheamirul.site/tags/cisco-sesa/</link>
+      <pubDate>Sat, 14 Jun 2025 04:57:17 +0800</pubDate>
+      <guid>https://cheamirul.site/tags/cisco-sesa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Email</title>
       <link>https://cheamirul.site/tags/email/</link>
-      <pubDate>Sun, 01 Jun 2025 11:44:53 +0800</pubDate>
+      <pubDate>Sat, 14 Jun 2025 04:57:17 +0800</pubDate>
       <guid>https://cheamirul.site/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://cheamirul.site/tags/learning/</link>
+      <pubDate>Sat, 14 Jun 2025 04:57:17 +0800</pubDate>
+      <guid>https://cheamirul.site/tags/learning/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +34,6 @@
       <link>https://cheamirul.site/tags/foundation/</link>
       <pubDate>Sun, 01 Jun 2025 11:44:53 +0800</pubDate>
       <guid>https://cheamirul.site/tags/foundation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning</title>
-      <link>https://cheamirul.site/tags/learning/</link>
-      <pubDate>Sun, 01 Jun 2025 11:44:53 +0800</pubDate>
-      <guid>https://cheamirul.site/tags/learning/</guid>
       <description></description>
     </item>
   </channel>

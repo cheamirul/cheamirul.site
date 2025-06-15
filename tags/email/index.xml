@@ -6,16 +6,26 @@
     <description>Recent content in Email on cheamirul.site</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jun 2025 11:44:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 04:57:17 +0800</lastBuildDate>
     <atom:link href="https://cheamirul.site/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing the Cisco Secure Email Gateway (SEG/ESA): The Digital Gatekeeper</title>
+      <link>https://cheamirul.site/posts/sesa-intro/</link>
+      <pubDate>Sat, 14 Jun 2025 04:57:17 +0800</pubDate>
+      <guid>https://cheamirul.site/posts/sesa-intro/</guid>
+      <description>&lt;h2 id=&#34;the-problem-seg-solves&#34;&gt;The Problem SEG Solves&lt;/h2&gt;
+&lt;p&gt;Nowadays, email is one of the most targeted places for scammers and hackers to find their victims. Statistics from Cisco state that &lt;strong&gt;85% of email is spam&lt;/strong&gt;, containing various malicious content like malware, phishing, ransomware, etc.&lt;/p&gt;
+&lt;p&gt;That is why email security is very crucial and vital in the enterprise email environment.&lt;br&gt;
+Cisco Secure Email Gateway (SEG), previously known as Cisco Email Security Appliance (ESA), is an appliance designed as a front-line defense for enterprise email infrastructure.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Under the Hood: How Your Emails Get Delivered</title>
       <link>https://cheamirul.site/posts/emailbegin/</link>
       <pubDate>Sun, 01 Jun 2025 11:44:53 +0800</pubDate>
       <guid>https://cheamirul.site/posts/emailbegin/</guid>
       <description>&lt;h2 id=&#34;introduction-the-magic-of-instant-communication&#34;&gt;Introduction: The Magic of Instant Communication&lt;/h2&gt;
-&lt;p&gt;Email is a technology we often take for granted. These days, we can easily create an email address using providers like Gmail or ProtonMail, and start sending and receiving messages instantly.&lt;/p&gt;
-&lt;p&gt;However, behind the scenes, there’s much more going on. The journey of an email involves various servers, protocols, and checks. In fact, email delivery works quite differently from regular web traffic, with each component playing a specific role in making sure your message gets delivered reliably.&lt;/p&gt;</description>
+&lt;p&gt;These days, sending an email feels almost effortless. We sign up for an account with Gmail, ProtonMail or another provider type out a message, hit &amp;ldquo;Send&amp;rdquo; and within seconds it lands in someone else&amp;rsquo;s inbox.&lt;/p&gt;
+&lt;p&gt;But what actually happens after you click &amp;ldquo;Send&amp;rdquo; is much more complex. There’s an entire system working behind the scenes to move your message across servers, networks, and protocols before it reaches its destination. Email doesn’t travel the same way as regular web traffic and understanding how it works can be pretty fascinating.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
