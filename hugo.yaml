@@ -95,9 +95,9 @@ params:
     - name: LinkedIn
       title: My LinkedIn Profile
       url: "https://www.linkedin.com/in/cheamirul0/"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+    # - name: KoFi
+    #   title: Buy me a Ko-Fi :)
+    #   url: ""
 
 markup:
   goldmark:

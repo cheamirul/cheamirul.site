@@ -7,9 +7,9 @@ title: 'Under the Hood: How Your Emails Get Delivered'
 
 ## Introduction: The Magic of Instant Communication
 
-Email is a technology we often take for granted. These days, we can easily create an email address using providers like Gmail or ProtonMail, and start sending and receiving messages instantly.
+These days, sending an email feels almost effortless. We sign up for an account with Gmail, ProtonMail or another provider type out a message, hit "Send" and within seconds it lands in someone else's inbox.
 
-However, behind the scenes, there’s much more going on. The journey of an email involves various servers, protocols, and checks. In fact, email delivery works quite differently from regular web traffic, with each component playing a specific role in making sure your message gets delivered reliably.
+But what actually happens after you click "Send" is much more complex. There’s an entire system working behind the scenes to move your message across servers, networks, and protocols before it reaches its destination. Email doesn’t travel the same way as regular web traffic and understanding how it works can be pretty fascinating.
 
 <p style="text-align: center;">
   <img src="/images/Mailflow.png" alt="Basic mail flow" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;" />
@@ -24,7 +24,7 @@ Several components are involved in sending and receiving emails:
 
 - **Email Client (MUA - Mail User Agent)**  
   _Examples: Outlook, Thunderbird_  
-  **What it does**: Lets users compose, send, and receive emails. It connects to mail servers for sending (SMTP) and retrieving (IMAP/POP3) messages.
+  **What it does**: It let users compose, send, and receive emails. It connects to mail servers for sending (SMTP) and retrieving (IMAP/POP3) messages.
 
 - **Mail Servers (The Post Offices & Mail Carriers)**  
   - **SMTP Server (Simple Mail Transfer Protocol)**  
@@ -80,6 +80,6 @@ Several components are involved in sending and receiving emails:
 
 ## Conclusion: More Than Just Magic
 
-This basic mail flow doesn't even include security appliances like Cisco Secure Email Gateway (SEG), which are critical in real-world scenarios. Standard email protocols are vulnerable to threats such as phishing, spoofing, and malware.
+This basic mail flow doesn't even include security appliances like Cisco Secure Email Gateway (SEG) which are critical in real-world scenarios. Standard email protocols are vulnerable to threats such as phishing, spoofing, and malware.
 
 Understanding how email works under the hood helps explain why security tools like Cisco SEG (formerly ESA) are still important today. Despite being a decades-old technology, email continues to evolve—and so must our understanding and protection of it.
