@@ -2,7 +2,7 @@
 date: "2025-10-16T19:44:25+08:00"
 draft: false
 tags: ["lab", "network", "learning", "SCOR"]
-title: "Eveng Network Simulator - GCP setup"
+title: "Eveng Network Simulator"
 ---
 
 When learning networking for any reason, such as for professional certificates like CCNA or for upskilling, we cannot avoid using one of the popular tools, which is EVE-NG.
