@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lab on cheamirul.site</title>
+    <link>https://cheamirul.site/tags/lab/</link>
+    <description>Recent content in Lab on cheamirul.site</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Oct 2025 19:44:25 +0800</lastBuildDate>
+    <atom:link href="https://cheamirul.site/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eveng Network Simulator - GCP setup</title>
+      <link>https://cheamirul.site/posts/eveng-gcpsetup/</link>
+      <pubDate>Thu, 16 Oct 2025 19:44:25 +0800</pubDate>
+      <guid>https://cheamirul.site/posts/eveng-gcpsetup/</guid>
+      <description>&lt;p&gt;When learning networking for any reason, such as for professional certificates like CCNA or for upskilling, we cannot avoid using one of the popular tools, which is EVE-NG.&lt;/p&gt;
+&lt;p&gt;This is my first post about EVE-NG as I want to pursue the Cisco SCOR certification, and I find it more interesting to learn through labbing rather than just memorizing facts.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-eve-ng&#34;&gt;What is EVE-NG?&lt;/h2&gt;
+&lt;p&gt;It is a software used for network simulation with various devices across vendors, as long as we have the image files needed for those devices. EVE-NG can be deployed using VirtualBox (Type 2 hypervisor), ESXi (Type 1 hypervisor), on bare metal servers, or on the cloud using providers that allow nested virtualization, such as GCP.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
