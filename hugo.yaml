@@ -13,6 +13,10 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 minify:
   disableXML: true
   # minifyOutput: true
